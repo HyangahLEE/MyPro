@@ -15,7 +15,7 @@
 
 [[[PL/SQL을 이용한 SOCAR 서버프로젝트]]]
 
-*ORACLE 11g PL/SQL
+DBMS: ORACLE 11g
 
 -총 38개 데이터테이블 구축
 
