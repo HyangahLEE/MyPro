@@ -8,14 +8,18 @@
 
 -서버 : apache-tomcat 8.5
 
--도구 : Eclipse, sqldeveloper, exerd,
+-도구 : Eclipse, sqldeveloper, exerd
+
+-DBMS : Oracle 11g
 
 -오픈소스 : 구글지도API, 주소API, 네이버 아이디 API
+
+-SMTP를 이용한 회원가입 메일 전송
 
 
 [[[PL/SQL을 이용한 SOCAR 서버프로젝트]]]
 
-DBMS: ORACLE 11g
+-DBMS: ORACLE 11g
 
 -총 38개 데이터테이블 구축
 
