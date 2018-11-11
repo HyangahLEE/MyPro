@@ -10,3 +10,5 @@ java, jsp/servlet, javascript, jQuery, ajax, json처리, bootstrap, oracle
 서버 : apache-tomcat 8.5
 
 도구 : Eclipse, sqldeveloper, exerd,
+
+오픈소스 : 구글지도API, 네이버 아이디 API
