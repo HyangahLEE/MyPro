@@ -10,7 +10,7 @@
 
 -도구 : Eclipse, sqldeveloper, exerd,
 
--오픈소스 : 구글지도API, 네이버 아이디 API
+-오픈소스 : 구글지도API, 주소API, 네이버 아이디 API
 
 
 [[[PL/SQL을 이용한 SOCAR 서버프로젝트]]]
