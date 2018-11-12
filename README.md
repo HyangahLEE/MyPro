@@ -1,6 +1,6 @@
 # MyPro
 
-◆[[[교육센터 반응형 웹사이트 구축]]] -branche
+◆[[[교육센터 반응형 웹사이트 구축]]] -branche (sist_pro, sist_lms)
 
 -JSP/Servlet을 이용한 MVC패턴으로 구현
 
@@ -17,7 +17,7 @@
 -SMTP를 이용한 회원가입 메일 전송
 
 
-◆[[[PL/SQL을 이용한 SOCAR 서버프로젝트]]] -branche
+◆[[[PL/SQL을 이용한 SOCAR 서버프로젝트]]] -branche (socar.sql)
 
 -DBMS: ORACLE 11g
 
@@ -29,4 +29,15 @@
 
 -도구 : EXERD, SQLDeveloper
 
+
+
+◆[[[Node.js를 이용한 안드로이드 어플리케이션 프로젝트]]] (android_pro)
+
+-AWS에서 EC2, RDS 서비스 사용
+
+-npm 모듈 설치 
+
+-DBMS : MYSQL
+
+-게시판 기능 
 
