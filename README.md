@@ -29,6 +29,8 @@
 
 -도구 : EXERD, SQLDeveloper
 
+-Trigger, view, function, proceduer.. 
+
 
 
 ◆[[[Node.js를 이용한 안드로이드 어플리케이션 프로젝트]]] (android_pro)
