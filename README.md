@@ -35,9 +35,11 @@
 
 -AWS에서 EC2, RDS 서비스 사용
 
+-REST API
+
 -npm 모듈 설치 
 
 -DBMS : MYSQL
 
--게시판 기능 
+-게시판 기능 구현
 
