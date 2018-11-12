@@ -4,7 +4,7 @@
 
 -JSP/Servlet을 이용한 MVC패턴으로 구현
 
--java, jsp/servlet, javascript, jQuery, ajax, json처리, bootstrap, oracle
+-java, jsp/servlet, javascript, jQuery, ajax( json ), bootstrap, oracle
 
 -서버 : apache-tomcat 8.5
 
