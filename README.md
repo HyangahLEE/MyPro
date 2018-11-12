@@ -1,6 +1,6 @@
 # MyPro
 
-◆[[[교육센터 반응형 웹사이트 구축]]] -branche (sist_pro, sist_lms)
+◆[[[교육센터 반응형 웹사이트 구축]]] -branches (sistPro, sistPro_lms)
 
 -JSP/Servlet을 이용한 MVC패턴으로 구현
 
@@ -17,7 +17,7 @@
 -SMTP를 이용한 회원가입 메일 전송
 
 
-◆[[[PL/SQL을 이용한 SOCAR 서버프로젝트]]] -branche (socar.sql)
+◆[[[PL/SQL을 이용한 SOCAR 서버프로젝트]]] -branches (socar.sql)
 
 -DBMS: ORACLE 11g
 
@@ -41,5 +41,5 @@
 
 -DBMS : MYSQL
 
--게시판 기능 구현
+-서버 : 게시판 기능 구현
 
